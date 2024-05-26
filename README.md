@@ -1,4 +1,4 @@
-In this reop, you can find our solution's notebook along with the datasets used.
+In this repo, you can find our solution's notebook along with the datasets used.
 <br>
 Moreover, here is a video where we describe our solution Logic: <br>
 [Click to go to the YouTube Video](https://www.youtube.com/watch?v=0rt4qCfxgyY)
